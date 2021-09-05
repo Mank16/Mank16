@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [xfce-nameday-plugin](https://github.com/mmaniu/xfce-nameday-plugin) and [PClinuxOS CZ/SK](https://github.com/pclinuxoscz)
 - 👨‍💻 All of my projects are available at
 -  [github.com/Mank16](https://github.com/Mank16) 
--  [github.com/Mank16](https://github.com/mmaniu) 
+-  [github.com/mmaniu](https://github.com/mmaniu) 
 -  [PClinuxOS CZ/SK](https://github.com/pclinuxoscz)
 - 📫 How to reach me **maniu@pm.me**
 
